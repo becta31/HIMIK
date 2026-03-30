@@ -1,1 +1,1 @@
-trigger reindex
+index refresh
